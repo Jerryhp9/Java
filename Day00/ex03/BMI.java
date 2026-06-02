@@ -3,7 +3,7 @@ package Day00.ex03;
 import java.util.Scanner;
 
 public class BMI {
-    public static void category(double result) {
+    public static void category(double result){
         if (result < 18.5)
             System.out.println("Underweight");
         else if (result >= 18.5 && result <= 24.9)
