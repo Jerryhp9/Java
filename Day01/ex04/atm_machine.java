@@ -1,3 +1,4 @@
+package Day01.ex04;
 import java.util.Objects;
 import java.util.Scanner;
 

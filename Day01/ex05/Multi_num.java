@@ -1,4 +1,4 @@
-package Day00.ex05;
+package Day01.ex05;
 
 public class Multi_num {
     public static void main(String[]args){

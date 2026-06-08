@@ -1,4 +1,4 @@
-package Day00.ex06;
+package Day01.ex06;
 
 import java.util.Random;
 import java.util.Scanner;
